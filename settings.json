@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "dragonheartalchemy.aternos.me",
+    "port": 31642,
     "version": "",
     "try-creative": false
   },
